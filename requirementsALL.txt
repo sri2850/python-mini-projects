@@ -1,9 +1,1 @@
 ExifRead
-Flask-SQLAlchemy
-Flask
-HTMLParser
-Pillow
-PyAudio
-PyAutoGUI
-PyPDF
-SpeechRecognition
