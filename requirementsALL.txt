@@ -1,1 +1,4 @@
 ExifRead
+HTMLParser
+Pillow
+PyAudio
