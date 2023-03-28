@@ -1,4 +1,3 @@
 ExifRead
 HTMLParser
 Pillow
-PyAudio
