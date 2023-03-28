@@ -1,3 +1,8 @@
 ExifRead
 HTMLParser
 Pillow
+Flask-SQLAlchemy
+Flask
+click
+cycler
+idna
